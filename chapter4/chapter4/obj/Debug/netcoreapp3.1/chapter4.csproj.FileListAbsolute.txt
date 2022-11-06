@@ -1,0 +1,12 @@
+C:\Users\Pouria\source\repos\chapter4\chapter4\bin\Debug\netcoreapp3.1\chapter4.exe
+C:\Users\Pouria\source\repos\chapter4\chapter4\bin\Debug\netcoreapp3.1\chapter4.deps.json
+C:\Users\Pouria\source\repos\chapter4\chapter4\bin\Debug\netcoreapp3.1\chapter4.runtimeconfig.json
+C:\Users\Pouria\source\repos\chapter4\chapter4\bin\Debug\netcoreapp3.1\chapter4.runtimeconfig.dev.json
+C:\Users\Pouria\source\repos\chapter4\chapter4\bin\Debug\netcoreapp3.1\chapter4.dll
+C:\Users\Pouria\source\repos\chapter4\chapter4\bin\Debug\netcoreapp3.1\chapter4.pdb
+C:\Users\Pouria\source\repos\chapter4\chapter4\obj\Debug\netcoreapp3.1\chapter4.csproj.CoreCompileInputs.cache
+C:\Users\Pouria\source\repos\chapter4\chapter4\obj\Debug\netcoreapp3.1\chapter4.AssemblyInfoInputs.cache
+C:\Users\Pouria\source\repos\chapter4\chapter4\obj\Debug\netcoreapp3.1\chapter4.AssemblyInfo.cs
+C:\Users\Pouria\source\repos\chapter4\chapter4\obj\Debug\netcoreapp3.1\chapter4.dll
+C:\Users\Pouria\source\repos\chapter4\chapter4\obj\Debug\netcoreapp3.1\chapter4.pdb
+C:\Users\Pouria\source\repos\chapter4\chapter4\obj\Debug\netcoreapp3.1\chapter4.genruntimeconfig.cache
