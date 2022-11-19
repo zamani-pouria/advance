@@ -1,0 +1,13 @@
+C:\Users\Pouria\source\repos\chapter5\chapter5\bin\Debug\netcoreapp3.1\chapter5.exe
+C:\Users\Pouria\source\repos\chapter5\chapter5\bin\Debug\netcoreapp3.1\chapter5.deps.json
+C:\Users\Pouria\source\repos\chapter5\chapter5\bin\Debug\netcoreapp3.1\chapter5.runtimeconfig.json
+C:\Users\Pouria\source\repos\chapter5\chapter5\bin\Debug\netcoreapp3.1\chapter5.runtimeconfig.dev.json
+C:\Users\Pouria\source\repos\chapter5\chapter5\bin\Debug\netcoreapp3.1\chapter5.dll
+C:\Users\Pouria\source\repos\chapter5\chapter5\bin\Debug\netcoreapp3.1\chapter5.pdb
+C:\Users\Pouria\source\repos\chapter5\chapter5\obj\Debug\netcoreapp3.1\chapter5.csprojAssemblyReference.cache
+C:\Users\Pouria\source\repos\chapter5\chapter5\obj\Debug\netcoreapp3.1\chapter5.csproj.CoreCompileInputs.cache
+C:\Users\Pouria\source\repos\chapter5\chapter5\obj\Debug\netcoreapp3.1\chapter5.AssemblyInfoInputs.cache
+C:\Users\Pouria\source\repos\chapter5\chapter5\obj\Debug\netcoreapp3.1\chapter5.AssemblyInfo.cs
+C:\Users\Pouria\source\repos\chapter5\chapter5\obj\Debug\netcoreapp3.1\chapter5.dll
+C:\Users\Pouria\source\repos\chapter5\chapter5\obj\Debug\netcoreapp3.1\chapter5.pdb
+C:\Users\Pouria\source\repos\chapter5\chapter5\obj\Debug\netcoreapp3.1\chapter5.genruntimeconfig.cache
