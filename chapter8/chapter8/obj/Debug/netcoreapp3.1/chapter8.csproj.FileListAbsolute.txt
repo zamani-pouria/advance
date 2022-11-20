@@ -1,0 +1,13 @@
+C:\Users\Pouria\source\repos\chapter8\chapter8\bin\Debug\netcoreapp3.1\chapter8.exe
+C:\Users\Pouria\source\repos\chapter8\chapter8\bin\Debug\netcoreapp3.1\chapter8.deps.json
+C:\Users\Pouria\source\repos\chapter8\chapter8\bin\Debug\netcoreapp3.1\chapter8.runtimeconfig.json
+C:\Users\Pouria\source\repos\chapter8\chapter8\bin\Debug\netcoreapp3.1\chapter8.runtimeconfig.dev.json
+C:\Users\Pouria\source\repos\chapter8\chapter8\bin\Debug\netcoreapp3.1\chapter8.dll
+C:\Users\Pouria\source\repos\chapter8\chapter8\bin\Debug\netcoreapp3.1\chapter8.pdb
+C:\Users\Pouria\source\repos\chapter8\chapter8\obj\Debug\netcoreapp3.1\chapter8.csprojAssemblyReference.cache
+C:\Users\Pouria\source\repos\chapter8\chapter8\obj\Debug\netcoreapp3.1\chapter8.csproj.CoreCompileInputs.cache
+C:\Users\Pouria\source\repos\chapter8\chapter8\obj\Debug\netcoreapp3.1\chapter8.AssemblyInfoInputs.cache
+C:\Users\Pouria\source\repos\chapter8\chapter8\obj\Debug\netcoreapp3.1\chapter8.AssemblyInfo.cs
+C:\Users\Pouria\source\repos\chapter8\chapter8\obj\Debug\netcoreapp3.1\chapter8.dll
+C:\Users\Pouria\source\repos\chapter8\chapter8\obj\Debug\netcoreapp3.1\chapter8.pdb
+C:\Users\Pouria\source\repos\chapter8\chapter8\obj\Debug\netcoreapp3.1\chapter8.genruntimeconfig.cache
