@@ -1,0 +1,10 @@
+C:\Users\Pouria\source\repos\chapter12\chapter12\bin\Debug\chapter12.exe.config
+C:\Users\Pouria\source\repos\chapter12\chapter12\bin\Debug\chapter12.exe
+C:\Users\Pouria\source\repos\chapter12\chapter12\bin\Debug\chapter12.pdb
+C:\Users\Pouria\source\repos\chapter12\chapter12\obj\Debug\chapter12.csprojAssemblyReference.cache
+C:\Users\Pouria\source\repos\chapter12\chapter12\obj\Debug\chapter12.Form1.resources
+C:\Users\Pouria\source\repos\chapter12\chapter12\obj\Debug\chapter12.Properties.Resources.resources
+C:\Users\Pouria\source\repos\chapter12\chapter12\obj\Debug\chapter12.csproj.GenerateResource.cache
+C:\Users\Pouria\source\repos\chapter12\chapter12\obj\Debug\chapter12.csproj.CoreCompileInputs.cache
+C:\Users\Pouria\source\repos\chapter12\chapter12\obj\Debug\chapter12.exe
+C:\Users\Pouria\source\repos\chapter12\chapter12\obj\Debug\chapter12.pdb
